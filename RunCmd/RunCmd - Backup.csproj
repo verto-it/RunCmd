@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<RuntimeIdentifier>win-x64</RuntimeIdentifier> <!-- Change as necessary -->
+    <SelfContained>true</SelfContained> <!-- Optional: for self-contained deployment -->
+    <PublishTrimmed>true</PublishTrimmed> <!-- Optional: for trimming unused assemblies -->
+  </PropertyGroup>
+
+</Project>

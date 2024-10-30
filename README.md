@@ -10,5 +10,7 @@ RunCmd is a simple standalone command-line tool designed to execute scripts or c
 - **Multi-Execution**: Supports the execution of scripts or commands multiple times as needed.
 - **Configurable**: Easily adjustable settings to fit specific requirements.
 
+## Using
+
 - RunCmd is built on .net 8.0
 - If you want to use it, you currently need to compile it yourself using dotnet or a IDE like Visual Studio

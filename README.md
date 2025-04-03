@@ -1,3 +1,5 @@
+This Tool originated under OpnForge and was moved to Verto-It [https://www.verto-it.com](https://www.verto-it.com)
+
 # RunCmd
 
 RunCmd is a simple standalone command-line tool designed to execute scripts or commands in a seamless manner. It is intended for use with Microsoft Intune, providing an efficient solution for deploying scripts from the cloud that run multiple times rather than just for remediation purposes.
